@@ -28,6 +28,8 @@ Still experimental:
 
 - And then download or clone the repository:
 
+Type:
+
     git clone https://github.com/horiz0ec3/Twitrends.git
 
 See full installation [here](https://xploitlab.com/twitrends)
