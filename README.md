@@ -66,4 +66,4 @@ Meanwhile, visualization of retweet graph using d3.js 3d force graph:
 
 # Thanks to:
 
-* [Wibisono](https://github.com/wibisono/) The first creator of this tool
+* [Adianto Wibisono](https://github.com/wibisono/) The first creator of this tool
