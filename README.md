@@ -30,7 +30,7 @@ Still experimental:
 
 Type:
 
-    git clone https://github.com/horiz0ec3/Twitrends.git
+    git clone https://github.com/0ec3/Twitrends.git
 
 See full installation [here](https://xploitlab.com/twitrends)
 
