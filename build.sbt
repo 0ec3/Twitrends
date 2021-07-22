@@ -2,7 +2,7 @@ import org.scalajs.jsenv.selenium.SeleniumJSEnv
 import org.openqa.selenium.chrome.ChromeOptions
 import org.openqa.selenium.remote.DesiredCapabilities
 
-name := "curious-trends"
+name := "twitrends"
 
 inThisBuild(Seq(
   version := "0.1.0-SNAPSHOT",
@@ -48,7 +48,7 @@ val browserCapabilities: DesiredCapabilities = {
 
 // Reusable settings for all modules
 val commonSettings = Seq(
-  moduleName := "curious-trends-" + moduleName.value,
+  moduleName := "twitrends-" + moduleName.value,
 )
 
 // Reusable settings for modules compiled to JS
@@ -154,7 +154,7 @@ lazy val packager = project
   .enablePlugins(JavaServerAppPackaging)
   .settings(commonSettings)
   .settings(
-    normalizedName := "curious-trends",
+    normalizedName := "twitrends",
     Compile / mainClass := (backend / Compile / mainClass).value,
 
     // add frontend statics to the package
