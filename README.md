@@ -32,7 +32,7 @@ Type:
 
     git clone https://github.com/0ec3/Twitrends.git
 
-See full installation [here](https://xploitlab.com/twitrends)
+See full installation [here](https://xploitlab.com/twitrends-twitter-data-analysis-tool/)
 
 # Starting App
 
